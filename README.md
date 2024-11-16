@@ -6,7 +6,7 @@ The content must respect the following rules:
 
 - There’s a new member coming to the administration council : you need to explain the global context of the company, its specific context, the challenges, the content and the results of your internship project(s).
 - The new member must be able to understand what you’re explaining.
-- Looking to promote people internally, the administration council is here to listen to YOU. It is important that you show your implication on the project, your qualities (technical as much as anything else).
+- Looking to promote people internally, the administration council is there to listen to YOU. It is important that you show your implication on the project, your qualities (technical as much as anything else).
 
 ## Building the slides
 
